@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5C46D1F8-3C29-405E-803D-63B9C323C9CA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E88E0BA-19C8-4B9A-8AA6-B15B45E74D79"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Explorer/xMessages.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "XchgMessage(uid:option:msg:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABF1B31A-9944-4453-ABF4-E1160768004F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Explorer/TableView3.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "approveMember(n:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABF1B31A-9944-4453-ABF4-E1160768004F - b2ee5c8bf9198d87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Morning_Walk.MapViewController.approveMember(n: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Morning Walk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iHome/Projects/SwiftProjects/Explorers/Explorer%20copy%2052/Explorer/TableView3.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "3064">
+               </Location>
+               <Location
+                  uuid = "ABF1B31A-9944-4453-ABF4-E1160768004F - 82232917d6dd7acf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Morning_Walk.MapViewController.approveMember(n: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Morning Walk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iHome/Projects/SwiftProjects/Explorers/Explorer%20copy%2052/Explorer/TableView3.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
